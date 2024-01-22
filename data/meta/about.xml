@@ -4,6 +4,16 @@
            <titleStmt>
               <title type="main">Über das Projekt</title>
               <title type="sub">Choralhandschriften der Zentralbibliothek der Wiener Franziskanerprovinz Graz</title>
+               <author>
+                    <persName>
+                        <forename>Max</forename>
+                        <surname>Mustermann</surname>
+                    </persName>
+                    <persName>
+                        <forename>Erika</forename></forename>
+                        <surname>Musterfrau</surname>
+                    </persName>
+                </author>
            </titleStmt>
            <publicationStmt>
               <p>Publication Information</p>
