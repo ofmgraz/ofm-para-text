@@ -4,7 +4,8 @@
         <fileDesc>
             <titleStmt>
                 <title level="s">Die Bücher</title>
-                <title level="a">Choralhandschriften der Zentralbibliothek der Wiener Franziskanerprovinz Graz</title>
+                <title level="a">Choralhandschriften der Zentralbibliothek der Wiener
+                    Franziskanerprovinz Graz</title>
                 <author>
                     <persName>
                         <forename>Max</forename>
@@ -38,7 +39,7 @@
         <body>
             <div>
                 <head>Die Bücher</head>
-                   <p>Es gibt 58 Bücher, etc.</p>
+                <p>Es gibt 58 Bücher, etc.</p>
             </div>
         </body>
     </text>
