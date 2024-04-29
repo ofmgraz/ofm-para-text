@@ -32,7 +32,7 @@
                     <head type="level2">Offenlegung gemäß §§ 24, 25 Mediengesetz und § 5 E-Commerce-Gesetz:</head>
                     <div type="level3">
                         <head type='level3'>Medieninhaberin, Herausgeberin, inhaltliche und redaktionelle Verantwortung, Dienstanbieterin:</head>
-                        <p type="address">
+                        <p xml:id="address_de">
                             <orgName><ref target="https://www.oeaw.ac.at">Österreichische Akademie der Wissenschaften</ref></orgName>
                             <desc>Juristische Person öffentlichen Rechts (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
@@ -131,7 +131,7 @@
                     <head type='level2'>Legal disclosure according to §§ 24, 25 Austrian media law and § 5 E-Commerce law:</head>
                     <div type="level3">
                         <head type='level3'>Media owner, publisher, responsible for content and editorial office, service provider:</head>
-                        <p type="address">
+                        <p xml:id="address_en">
                             <orgName><ref target="https://www.oeaw.ac.at/en/">Austrian Academy of Sciences</ref></orgName>
                                 <desc>Corporate body organized under public law (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
