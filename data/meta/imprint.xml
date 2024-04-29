@@ -36,7 +36,7 @@
                             <orgName><ref target="https://www.oeaw.ac.at">Österreichische Akademie der Wissenschaften</ref></orgName>
                             <desc>Juristische Person öffentlichen Rechts (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
-                                <placeName><ref target="https://acdh.oeaw.ac.at">Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</ref></placeName>
+                                <placeName type="institution"><ref target="https://acdh.oeaw.ac.at">Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</ref></placeName>
                                 <address>
                                     <placeName type="street">Dr. Ignaz Seipel-Platz <num>2</num></placeName>
                                     <placeName type="postalcode">1010</placeName>
