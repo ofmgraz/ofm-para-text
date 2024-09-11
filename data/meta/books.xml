@@ -3,9 +3,8 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title level="s">Die Bücher</title>
-                <title level="a">Choralhandschriften der Zentralbibliothek der Wiener
-                    Franziskanerprovinz Graz</title>
+                <title level="a">Die Quellen</title>
+                <title level="s">Choralhandschriften der Zentralbibliothek der Wiener Franziskanerprovinz Graz</title>
                 <author>
                     <persName>
                         <forename>Robert</forename>
@@ -34,7 +33,7 @@
     <text>
         <body xml:lang="de">
             <div>
-                <head>Die Bücher</head>
+                <head>Die Quellen</head>
                 <p>Die Grazer Zentralbibliothek verwahrt zahlreiche Choralquellen vom Beginn des 14. Jahrhun-
 derts weg bis zum 19. Jahrhundert. In der Forschung wurden diese Handschriften und Drucke
 bislang wenig beachtet, bekannter sind die Quellen zur barocken franziskanischen Figuralmu-
