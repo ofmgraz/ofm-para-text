@@ -3,17 +3,9 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-<<<<<<< HEAD
-<<<<<<< HEAD
-                <title level="a">Die Quellen</title>
-                <title level="s">Choralhandschriften der Zentralbibliothek der Wiener Franziskanerprovinz Graz</title>
-=======
-=======
->>>>>>> 50db0e5 (solved)
                 <title type="main">Die Bücher</title>
                 <title type="sub">Choralhandschriften der Zentralbibliothek der Wiener
                     Franziskanerprovinz Graz</title>
->>>>>>> 50db0e5 (solved)
                 <author>
                     <persName>
                         <forename>Robert</forename>
