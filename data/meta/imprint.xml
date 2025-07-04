@@ -29,7 +29,7 @@
                             <orgName><ref target="https://www.oeaw.ac.at">Österreichische Akademie der Wissenschaften</ref></orgName>
                             <desc>Juristische Person öffentlichen Rechts (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
-                                <placeName type="institution"><ref target="https://www.oeaw.ac.at/acdh>Austrian Centre for Digital Humanities (ACDH)</ref></placeName>
+                                <placeName type="institution"><ref target="https://www.oeaw.ac.at/acdh">Austrian Centre for Digital Humanities (ACDH)</ref></placeName>
                                 <address>
                                     <placeName type="street">Dr. Ignaz Seipel-Platz <num>2</num></placeName>
                                     <placeName type="postalcode">1010</placeName>
@@ -128,7 +128,7 @@
                             <orgName><ref target="https://www.oeaw.ac.at/en/">Austrian Academy of Sciences</ref></orgName>
                                 <desc>Corporate body organized under public law (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
-                                <placeName><ref target="https://www.oeaw.ac.at/acdh>Austrian Centre for Digital Humanities (ACDH)</ref></placeName>
+                                <placeName><ref target="https://www.oeaw.ac.at/acdh">Austrian Centre for Digital Humanities (ACDH)</ref></placeName>
                                 <address>
                                     <placeName type="street">Dr. Ignaz Seipel-Platz <num>2</num></placeName>
                                     <placeName type="postalcode">1010</placeName>
