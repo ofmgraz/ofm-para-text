@@ -29,7 +29,7 @@
                             <orgName><ref target="https://www.oeaw.ac.at">Österreichische Akademie der Wissenschaften</ref></orgName>
                             <desc>Juristische Person öffentlichen Rechts (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
-                                <placeName type="institution"><ref target="https://acdh.oeaw.ac.at">Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</ref></placeName>
+                                <placeName type="institution"><ref target="https://www.oeaw.ac.at/acdh>Austrian Centre for Digital Humanities (ACDH)</ref></placeName>
                                 <address>
                                     <placeName type="street">Dr. Ignaz Seipel-Platz <num>2</num></placeName>
                                     <placeName type="postalcode">1010</placeName>
@@ -48,9 +48,9 @@
                             Zusammenarbeit der Wissenschaft mit Öffentlichkeit, Politik und Wirtschaft.
                         </p>
                         <p>
-                            Das Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH) ist ein Institut der ÖAW,
+                            Das Austrian Centre for Digital Humanities (ACDH) ist ein Institut der ÖAW,
                             das mit dem Ziel gegründet wurde, digitale Methoden und Ansätze in den geisteswissenschaftlichen
-                            Disziplinen zu fördern. Das ACDH-CH unterstützt digitale Forschung in vielfältiger Weise.
+                            Disziplinen zu fördern. Das ACDH unterstützt digitale Forschung in vielfältiger Weise.
                         </p>
                     </div>
                     <div type="level3">
@@ -128,7 +128,7 @@
                             <orgName><ref target="https://www.oeaw.ac.at/en/">Austrian Academy of Sciences</ref></orgName>
                                 <desc>Corporate body organized under public law (BGBl 569/1921 idF BGBl I 130/2003)</desc>
                             <location>
-                                <placeName><ref target="https://acdh.oeaw.ac.at">Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH)</ref></placeName>
+                                <placeName><ref target="https://www.oeaw.ac.at/acdh>Austrian Centre for Digital Humanities (ACDH)</ref></placeName>
                                 <address>
                                     <placeName type="street">Dr. Ignaz Seipel-Platz <num>2</num></placeName>
                                     <placeName type="postalcode">1010</placeName>
@@ -146,8 +146,8 @@
                             every respect. As a learned society, the OEAW fosters discourse and cooperation between science and
                             society, politics and economy.</p>
                         <p>
-                            The Austrian Centre for Digital Humanities and Cultural Heritage (ACDH-CH) is an OEAW institute
-                            ounded with the goal to support digital methods in arts and humanities disciplines. The ACDH-CH
+                            The Austrian Centre for Digital Humanities (ACDH) is an OEAW institute
+                            ounded with the goal to support digital methods in arts and humanities disciplines. The ACDH
                             supports digital research in manifold ways.</p>
                     </div>
                     <div type="level3">
